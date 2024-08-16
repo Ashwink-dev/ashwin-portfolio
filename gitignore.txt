@@ -1,0 +1,5 @@
+node_modules
+build
+build.7z
+.DS_Store
+.vscode
